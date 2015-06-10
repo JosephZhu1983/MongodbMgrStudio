@@ -1,0 +1,9 @@
+E:\5173Site\Aot\Dev\Mongodb\MongodbManagementStudio\bin\MongodbManagementStudio.dll
+E:\5173Site\Aot\Dev\Mongodb\MongodbManagementStudio\bin\MongodbManagementStudio.pdb
+E:\5173Site\Aot\Dev\Mongodb\MongodbManagementStudio\bin\AjaxPro.2.dll
+E:\5173Site\Aot\Dev\Mongodb\MongodbManagementStudio\bin\gudusoft.gsqlparser.dll
+E:\5173Site\Aot\Dev\Mongodb\MongodbManagementStudio\bin\MongoDB.Driver.dll
+E:\5173Site\Aot\Dev\Mongodb\MongodbManagementStudio\bin\MongoDB.Driver.pdb
+E:\5173Site\Aot\Dev\Mongodb\MongodbManagementStudio\obj\Debug\ResolveAssemblyReference.cache
+E:\5173Site\Aot\Dev\Mongodb\MongodbManagementStudio\obj\Debug\MongodbManagementStudio.dll
+E:\5173Site\Aot\Dev\Mongodb\MongodbManagementStudio\obj\Debug\MongodbManagementStudio.pdb
